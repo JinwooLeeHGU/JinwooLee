@@ -23,5 +23,8 @@ void sub3(){
   printf("Your name is \n");
 }
 void sub4(){
-  printf("Your name is \n");
+  int a;
+  a = 6
+  printf("%n", &a);
+
 }
