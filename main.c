@@ -9,6 +9,8 @@ int main(){
   sub2();
   sub3();
   sub4();
+  
+  return 0;
 }
 
 void sub1(){
