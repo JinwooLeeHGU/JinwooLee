@@ -28,3 +28,5 @@ void sub4(){
   printf("%n", &a);
 
 }
+int ww(){
+a = 5;}
